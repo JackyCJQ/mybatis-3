@@ -18,6 +18,7 @@ package org.apache.ibatis.plugin;
 import org.apache.ibatis.exceptions.PersistenceException;
 
 /**
+ * 反射的异常
  * @author Clinton Begin
  */
 public class PluginException extends PersistenceException {

@@ -18,6 +18,7 @@ package org.apache.ibatis.plugin;
 import java.util.Properties;
 
 /**
+ * 插件需要实现的接口
  * @author Clinton Begin
  */
 public interface Interceptor {

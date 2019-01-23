@@ -22,6 +22,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
+ * 插件实现的注解，配置插件需要拦截哪些哪些方法
  * @author Clinton Begin
  */
 @Documented
